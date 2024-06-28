@@ -11,7 +11,7 @@ const profileSettings = {
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
     { title: "GitHub", url: "https://github.com/budii26", icon: "fa-github" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/budz2610", icon: "fa-instagram" }, // Tautan Instagram
+    { title: "Instagram", url: "https://www.instagram.com/budz2610?igsh=MWV2bmQ1eGh0ZWtsag==", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Group Bot", url: "https://chat.whatsapp.com/GyDDsh5yZg2IFdGxFzwUgd", icon: "fa-whatsapp" }, // Tautan Telegram
     { title: "Email", url: "mailto:brahmandani8@google.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://wa.me/6285731207908?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
