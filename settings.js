@@ -1,12 +1,12 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/vynaa.jpg", // Path ke favicon
+  favicon: "media/budii.jpg", // Path ke favicon
   title: "Budii | Profile", // Judul halaman
   metaTitle: "Budii || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Budii , Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Budii, Budiii, profile Budii, siapa Budii?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/budii.jpg", // Path ke gambar profil
+  imageSrc: "budii.jpg", // Path ke gambar profil
   name: "Budii", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
