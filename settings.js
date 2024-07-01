@@ -14,7 +14,7 @@ const profileSettings = {
     { title: "Instagram", url: "https://www.instagram.com/budz2610?igsh=MWV2bmQ1eGh0ZWtsag==", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Group Bot", url: "https://chat.whatsapp.com/GyDDsh5yZg2IFdGxFzwUgd", icon: "fa-whatsapp" }, // Tautan Telegram
     { title: "Email", url: "mailto:brahmandani8@google.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "AM Prem 10k setahun", url: "https://wa.me/6285731207908?text=mas+mau+order+am+prem", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "AM Prem", url: "https://wa.me/6285731207908?text=mas+mau+order+am+prem", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "YouTube", url: "https://youtube.com/@budz.xy.5449?si=3JPHR8TZu8ZfeauQ", icon: "fa-youtube" } // Tautan YouTube
   ]
 };
